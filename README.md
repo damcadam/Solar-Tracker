@@ -8,7 +8,7 @@ The goal of the Solar-Tracker project was replicate solar panels that track the 
 
 ## Code
 **Language:** The project was programmed in C++.  
-**Organization:** Three classes were used to control the Solar-Tracker. They controlled the clock, output from the rotary encoder, and the main flow of the program.
+**Organization:** Three classes were used to control the Solar-Tracker. They controlled the clock, output from the rotary encoder, and the main flow of the program. In the main file, functions were created for major pieces of functionality. Then each function was called in the program's `void loop()`
 
 ## Hardware
 - Arduino Nano
