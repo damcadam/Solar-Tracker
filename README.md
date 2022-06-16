@@ -9,9 +9,9 @@ The goal of the Solar-Tracker project was replicate solar panels that track the 
 ## Code
 
 ## Hardware
---Arduino Nano
---Servo
---LCD
---Photoresistors
+- Arduino Nano
+- Servo
+- LCD
+- Photoresistors
 
 ## Outcome
