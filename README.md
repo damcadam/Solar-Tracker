@@ -13,4 +13,4 @@ The goal of the Solar-Tracker project was to replicate solar panels that track t
 - Rotary encoder with push button
 - Photoresistors
 
-If there is a bright enough light source on photoresistors, the servo will point towards the light. In the absence of bright light the servo position is based on the time of day. This represents the solar panels pointing to the position the sun would be on a cloudy day. The mintues on the clock can be changed by rotating the encoder, and pressing the enocder will move the hours forward by one. 
+If there is a bright enough light source on photoresistors, the servo will point towards the light. In the absence of bright light the servo position is based on the time of day. This represents the solar panels pointing to the position the sun would be on a cloudy day. After 6:00 PM the servo moves to zero degrees to anticipate the Sun rising at 6:00 AM. The mintues on the clock can be changed by rotating the encoder, and pressing the enocder will move the hours forward by one. 
